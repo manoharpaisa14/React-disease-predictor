@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-disease-predictor/static/css/main.f855e6bc.css",
+    "main.js": "/React-disease-predictor/static/js/main.1a451dba.js",
+    "static/js/453.94436b06.chunk.js": "/React-disease-predictor/static/js/453.94436b06.chunk.js",
+    "index.html": "/React-disease-predictor/index.html",
+    "main.f855e6bc.css.map": "/React-disease-predictor/static/css/main.f855e6bc.css.map",
+    "main.1a451dba.js.map": "/React-disease-predictor/static/js/main.1a451dba.js.map",
+    "453.94436b06.chunk.js.map": "/React-disease-predictor/static/js/453.94436b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1a451dba.js"
+  ]
+}
