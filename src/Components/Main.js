@@ -24,7 +24,7 @@ const Main = () => {
       const options = {
         method: 'POST',
         headers: {
-          'x-rapidapi-key': 'd627865f43msh691caa4ad821662p1bf21cjsncba8ea9fe1d7',
+          'x-rapidapi-key': 'give your api here ',
           'x-rapidapi-host': 'human-disease-detector.p.rapidapi.com',
           'Content-Type': 'application/json',
           'x-token': 'Makshad Nai Bhoolna @ 2025', 
